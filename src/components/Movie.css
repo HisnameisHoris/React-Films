@@ -1,0 +1,16 @@
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+.like{
+    margin-top: 10px;
+}
+.active-btn{
+    border: 1px solid white;
+}
